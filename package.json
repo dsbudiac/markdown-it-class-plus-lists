@@ -12,6 +12,11 @@
     "email": "david.budiac@gmail.com",
     "url": "http://david.budi.ac/"
   },
+  "homepage": "https://github.com/dsbudiac/markdown-it-class-plus-lists",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsbudiac/markdown-it-class-plus-lists.git"
+  },
   "license": "MIT",
   "dependencies": {
     "markdown-it": "^8.3.2"
