@@ -1,6 +1,6 @@
 {
   "name": "markdown-it-class-plus-lists",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "classes markdown lists defined with plus signs",
   "main": "index.js",
   "scripts": {
