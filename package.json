@@ -1,0 +1,19 @@
+{
+  "name": "markdown-it-class-plus-lists",
+  "version": "1.0.0",
+  "description": "classes markdown lists defined with plus signs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "David Budiac",
+    "email": "david.budiac@gmail.com",
+    "url": "http://david.budi.ac/"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "markdown-it": "^8.3.2"
+  }
+}
